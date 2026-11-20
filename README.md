@@ -28,6 +28,6 @@ A comprehensive desktop-based Institute Management System built using **Java Swi
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/TashilaDilshanK/adyapana-institute-management-system-java.git](https://github.com/TashilaDilshanK/adyapana-institute-management-system-java.git)
+   git clone https://github.com/TashilaDilshanK/adyapana-institute-management-system-java.git
 
 Developed with ❤️ by Tashila Dilshan Kumara
